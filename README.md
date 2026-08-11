@@ -117,6 +117,6 @@ I'm building a portfolio of small, practical projects while developing my progra
 
 The goal is to gradually progress from simple Python exercises to more complex and useful projects.
 
-Small projects  →  Strong fundamentals . →  More complex projects
+Small projects  →  Strong fundamentals  →  More complex projects
 
 More projects and more complexity coming soon.
