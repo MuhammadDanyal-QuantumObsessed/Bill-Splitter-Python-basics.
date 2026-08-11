@@ -82,19 +82,19 @@ Amount Per Person
 
    * Variable assignment:
 
- Storing meal costs and number of friends
+           -> Storing meal costs and number of friends
    * Float arithmetic:
 
-Performing dollar-and-cents calculations
+           -> Performing dollar-and-cents calculations
    * Augmented assignment (+=):
 
-Building the running total
+           -> Building the running total
    * round() function:
 
-Rounding the final amount
+           -> Rounding the final amount
    * print() formatting:
 
-Displaying results clearly
+           -> Displaying results clearly
 
 ### Output for our workshop
 
@@ -112,7 +112,10 @@ Displaying results clearly
 ### Learning Journey
 
 This is one of my first hands-on projects while learning Python.
-I'm building a portfolio of small, practical projects while developing my programming fundamentals and working toward pursuing a Master's degree in a technical field abroad.
+
+I'm building a portfolio of small, practical projects while developing my programming fundamentals and working to get expertise in technical fields. 
+
 The goal is to gradually progress from simple Python exercises to more complex and useful projects.
-Small projects → Strong fundamentals → More complex projects
+Small projects  →  Strong fundamentals . →  More complex projects
+
 More projects and more complexity coming soon.
