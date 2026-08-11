@@ -80,18 +80,20 @@ Amount Per Person
 
 ### Concepts Practiced
 
-##### Concept.      ##### Application
-Variable assignment
-Storing meal costs and number of friends
-Float arithmetic
-Performing dollar-and-cents calculations
-Augmented assignment (+=)
-Building the running total
-round() function
-Rounding the final amount
-print() formatting
-Displaying results clearly
-Code
+##### Concept
+   * Variable assignment:
+
+                         Storing meal costs and number of friends
+   * Float arithmetic:
+                     Performing dollar-and-cents calculations
+   * Augmented assignment (+=):
+                               Building the running total
+   * round() function: 
+                      Rounding the final amount
+   * print() formatting: 
+                       Displaying results clearly
+
+### Code
 running_total = 0
 num_of_friends = 4
 
