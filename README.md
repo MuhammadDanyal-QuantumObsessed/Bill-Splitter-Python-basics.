@@ -79,6 +79,7 @@ Round to 2 Decimal Places
 Amount Per Person
 
 ### Concepts Practiced
+
 ##### Concept      
 #####Application
 Variable assignment
