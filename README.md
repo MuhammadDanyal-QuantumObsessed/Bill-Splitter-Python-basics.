@@ -119,4 +119,4 @@ The goal is to gradually progress from simple Python exercises to more complex a
 
 Small projects  →  Strong fundamentals  →  More complex projects
 
-More projects and more complexity coming soon.
+More projects and more complexity coming soon. 
