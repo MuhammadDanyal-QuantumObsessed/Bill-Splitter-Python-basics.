@@ -6,11 +6,11 @@ This project was built as part of my Python learning journey, with a focus on pr
  
 ## Table of Contents
 * About the Project
-* What It Does
+* What It Does ?
 * Concepts Practiced
 * Code
 * Example Output
-* How to Run
+* How to Run ?
 * Project Structure
 * Planned Improvements
 * Learning Journey
