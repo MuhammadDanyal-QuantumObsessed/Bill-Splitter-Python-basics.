@@ -32,7 +32,7 @@ It then calculates the total bill, adds a 25% tip, and divides the final amount 
 
 ##### Note:
 
-The project intentionally uses fixed values to keep the focus on learning fundamental Python syntax.
+The workshop intentionally uses fixed values to keep the focus on learning fundamental Python syntax.
 
 ### What It Does
 The program:
