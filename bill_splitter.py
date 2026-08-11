@@ -1,6 +1,6 @@
-"""
+
 Bill Splitter
--------------
+
 A beginner Python project that calculates how much each person owes
 after splitting a group restaurant bill, including tip.
 
@@ -9,7 +9,6 @@ Concepts practiced:
 - Float arithmetic
 - Augmented assignment (+=)
 - round()
-"""
 
 # Running total starts at 0 — we'll build up the bill step by step
 running_total = 0
