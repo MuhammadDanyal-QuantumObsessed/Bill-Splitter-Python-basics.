@@ -80,52 +80,37 @@ Amount Per Person
 
 ### Concepts Practiced
 
-##### Concept
    * Variable assignment:
 
-                         Storing meal costs and number of friends
+ Storing meal costs and number of friends
    * Float arithmetic:
 
-                     Performing dollar-and-cents calculations
+Performing dollar-and-cents calculations
    * Augmented assignment (+=):
 
-                               Building the running total
-   * round() function: 
+Building the running total
+   * round() function:
 
-                      Rounding the final amount
+Rounding the final amount
    * print() formatting:
 
-                       Displaying results clearly
+Displaying results clearly
 
 ### Output for our workshop
 
-Total Bill so far: 198.83
-Tip amount: 49.71
-Total with tip: 248.54
-Bill per person: 62.13
-Each person pays: 62.13
-How to Run
-Prerequisites
-Make sure you have Python 3 installed.
-Run the Program
-python bill_splitter.py
-You can also open the project directly in Google Colab or Jupyter Notebook.
-Project Structure
-bill-splitter/
-|
-├── bill_splitter.py
-└── README.md
-Planned Improvements
-The current version uses fixed values to keep the focus on core Python syntax.
-Future improvements:
-[ ] Accept live user input using input()
-[ ] Allow users to enter the number of people
-[ ] Wrap the calculation logic in reusable functions
-[ ] Allow users to choose a custom tip percentage
-[ ] Handle edge cases such as zero people and negative amounts
-[ ] Add a simple command-line interface (CLI)
-[ ] Explore a graphical user interface (GUI)
-Learning Journey
+   Total Bill so far:  198.83
+
+   Tip amount:  49.71
+
+   Total with tip: 248.54
+
+   Bill per person: 62.13
+
+   Each person pays: 62.13
+
+
+### Learning Journey
+
 This is one of my first hands-on projects while learning Python.
 I'm building a portfolio of small, practical projects while developing my programming fundamentals and working toward pursuing a Master's degree in a technical field abroad.
 The goal is to gradually progress from simple Python exercises to more complex and useful projects.
