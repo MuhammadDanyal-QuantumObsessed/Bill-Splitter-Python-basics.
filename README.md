@@ -30,7 +30,7 @@ The program takes the cost of different parts of a meal:
 
 It then calculates the total bill, adds a 25% tip, and divides the final amount equally among the group.
 
-######Note:
+###### Note:
 The project intentionally uses fixed values to keep the focus on learning fundamental Python syntax.
 What It Does
 The program:
