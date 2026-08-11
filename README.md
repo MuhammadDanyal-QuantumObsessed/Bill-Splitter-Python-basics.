@@ -30,17 +30,22 @@ The program takes the cost of different parts of a meal:
 
 It then calculates the total bill, adds a 25% tip, and divides the final amount equally among the group.
 
-###### Note:
+##### Note:
+
 The project intentionally uses fixed values to keep the focus on learning fundamental Python syntax.
-What It Does
+
+### What It Does
 The program:
-Calculates the total meal cost.
-Adds a 25% tip.
-Calculates the total bill including the tip.
-Splits the total evenly among the group.
-Rounds the amount to two decimal places.
-Displays the results.
-Calculation Flow
+
+  1. Calculates the total meal cost.
+  2. Adds a 25% tip.
+  3. Calculates the total bill including the tip.
+  4. Splits the total evenly among the group.
+  5. Rounds the amount to two decimal places.
+  6. Displays the results.
+
+### Calculation Flow
+
 Meal Costs
     |
     v
