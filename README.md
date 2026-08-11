@@ -49,23 +49,30 @@ The program:
 Meal Costs
     |
     v
+
 Calculate Total Bill
     |
     v
+
 Add 25% Tip
     |
     v
+
 Calculate Total With Tip
     |
     v
+
 Divide Among Friends
     |
     v
+
 Round to 2 Decimal Places
     |
     v
+
 Amount Per Person
-Concepts Practiced
+
+### Concepts Practiced
 Concept
 Application
 Variable assignment
