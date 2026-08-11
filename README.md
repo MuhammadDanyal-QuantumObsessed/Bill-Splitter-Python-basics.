@@ -5,7 +5,7 @@ A beginner-friendly Python workshop in which I build a simple 'Bill Splitter' th
 This project was built as part of my Python learning journey, with a focus on practicing variables, arithmetic operations, and augmented assignment through a simple, real-world problem.
  
 ## Table of Contents
-* About the Project
+* About the Workshop
 * What It Does ?
 * Concepts Practiced
 * Code
@@ -15,7 +15,7 @@ This project was built as part of my Python learning journey, with a focus on pr
 * Planned Improvements
 * Learning Journey
 
-### About the Project
+### About the Workshop
 
 Ever gone out to eat with friends and had to do awkward mental math to figure out who owes what?
 
