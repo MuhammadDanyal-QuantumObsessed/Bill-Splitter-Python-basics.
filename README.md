@@ -14,14 +14,19 @@ This project was built as part of my Python learning journey, with a focus on pr
 * Project Structure
 * Planned Improvements
 * Learning Journey
-About the Project
+
+### About the Project
+
 Ever gone out to eat with friends and had to do awkward mental math to figure out who owes what?
+
 Bill Splitter solves this simple problem using core Python fundamentals.
+
 The program takes the cost of different parts of a meal:
-Appetizers
-Main courses
-Desserts
-Drinks
+
+** Appetizers
+** Main courses
+** Desserts
+** Drinks
 It then calculates the total bill, adds a 25% tip, and divides the final amount equally among the group.
 The project intentionally uses fixed values to keep the focus on learning fundamental Python syntax.
 What It Does
