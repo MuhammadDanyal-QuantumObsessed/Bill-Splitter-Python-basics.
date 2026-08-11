@@ -11,7 +11,7 @@ This project was built as part of my Python learning journey, with a focus on pr
 * Code
 * Example Output
 * How to Run ?
-* Project Structure
+* Workshop Structure
 * Planned Improvements
 * Learning Journey
 
