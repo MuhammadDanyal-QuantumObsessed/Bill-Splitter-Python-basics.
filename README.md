@@ -80,8 +80,7 @@ Amount Per Person
 
 ### Concepts Practiced
 
-##### Concept      
-##### Application
+##### Concept      ##### Application
 Variable assignment
 Storing meal costs and number of friends
 Float arithmetic
