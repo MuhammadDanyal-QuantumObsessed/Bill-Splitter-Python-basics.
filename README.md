@@ -1,18 +1,19 @@
 # Bill Splitter
  
 A beginner-friendly Python mini-project that calculates how much each person in a group owes after splitting a restaurant bill, including a 25% tip.
+
 This project was built as part of my Python learning journey, with a focus on practicing variables, arithmetic operations, and augmented assignment through a simple, real-world problem.
  
 ## Table of Contents
-About the Project
-What It Does
-Concepts Practiced
-Code
-Example Output
-How to Run
-Project Structure
-Planned Improvements
-Learning Journey
+* About the Project
+* What It Does
+* Concepts Practiced
+* Code
+* Example Output
+* How to Run
+* Project Structure
+* Planned Improvements
+* Learning Journey
 About the Project
 Ever gone out to eat with friends and had to do awkward mental math to figure out who owes what?
 Bill Splitter solves this simple problem using core Python fundamentals.
